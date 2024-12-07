@@ -1,6 +1,6 @@
 ## Olá, eu sou o Thyago!
 
-- 🔭 Hoje eu trabalho com desenvolvimento Full-stack
+- 🔭 Hoje eu trabalho com desenvolvimento FrontEnd
 - 🌱 Estudando AngularJS
 - 💬 Contate-me no e-mail: thyagopereira41@gmail.com
 
